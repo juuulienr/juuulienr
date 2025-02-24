@@ -1,20 +1,17 @@
-# 👋 Hello, I'm Julien!
+## 👋 Hi, I'm Julien!
 
-## 💻 About Me
-I'm a **freelance developer** specializing in modern web technologies. With expertise in **Symfony (4, 5, 6 & 7), API, Vue.js (2 & 3)**. I build efficient and scalable applications for businesses.
+**Freelance Full-Stack Developer** | **Symfony, Vue.js & API** | **E-commerce & Mobile Apps**
 
-## 🛠️ Tech Stack
-🔹 Back-end : Symfony 4, 5, 6 & 7, PHP, MySQL, API REST
-🔹 Front-end : Vue.js 2 & 3, JavaScript/jQuery, Tailwind CSS
-🔹 Mobile Hybride : Cordova & Capacitor
+### 🛠️ Tech Stack
+- **Backend**: Symfony (4-7), PHP, MySQL, API REST  
+- **Frontend**: Vue.js (2 & 3), JavaScript, jQuery, Tailwind CSS  
+- **Mobile**: Cordova & Capacitor  
 
-## 🚀 Projects & Experience
-- **E-commerce solutions** with Shopify and Liquid
-- **Custom web applications** using Vue.js and Symfony
-- **Process automation** with Puppeteer
-- **Mobile applications** with Cordova/Capacitor
+### 🚀 What I Do
+- 🛒 **E-commerce**: Shopify, Liquid, custom web stores  
+- 🔧 **Web Apps**: Vue.js & Symfony for scalable solutions  
+- 🤖 **Automation**: Puppeteer & process automation  
+- 📱 **Mobile Dev**: Hybrid apps with Capacitor  
 
-## 📫 Connect with Me
-- GitHub: [@Julien](https://github.com/Julien)
-- LinkedIn: [Julien's Profile](https://www.linkedin.com/in/julien-reignier)
-- Malt (Freelance): [Julien on Malt](https://www.malt.fr/profile/julienreignier)
+### 📫 Connect with Me
+[GitHub](https://github.com/juuulienr) · [LinkedIn](https://www.linkedin.com/in/julien-reignier) · [Malt](https://www.malt.fr/profile/julienreignier)
