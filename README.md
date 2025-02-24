@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hello, I'm Julien!
 
-<!--
-**juuulienr/juuulienr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+I'm a **freelance developer** specializing in modern web technologies. With expertise in **Symfony (4, 5, 6 & 7), API, Vue.js (2 & 3)**. I build efficient and scalable applications for businesses.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+🔹 Back-end : Symfony 4, 5, 6 & 7, PHP, MySQL, API REST
+🔹 Front-end : Vue.js 2 & 3, JavaScript/jQuery, Tailwind CSS
+🔹 Mobile Hybride : Cordova & Capacitor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects & Experience
+- **E-commerce solutions** with Shopify and Liquid
+- **Custom web applications** using Vue.js and Symfony
+- **Process automation** with Puppeteer
+- **Mobile applications** with Cordova/Capacitor
+
+## 📫 Connect with Me
+- GitHub: [@Julien](https://github.com/Julien)
+- LinkedIn: [Julien's Profile](#)
+- Malt (Freelance): [Julien on Malt](#)
