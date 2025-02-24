@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Julien!
+## 👋 Hi, I'm Julien REIGNIER!
 
 **Freelance Full-Stack Developer** | **Symfony, API & Vue.js** | **Web & Mobile Apps**
 
