@@ -14,4 +14,4 @@
 - 🤖 **Automation**: Puppeteer & process automation  
 
 ### 📫 Connect with Me
-[GitHub](https://github.com/juuulienr) · [LinkedIn](https://www.linkedin.com/in/julien-reignier) · [Malt](https://www.malt.fr/profile/julienreignier)
+[GitHub](https://github.com/juuulienr) · [Malt](https://www.malt.fr/profile/julienreignier)
