@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Julien!
 
-**Freelance Full-Stack Developer** | **Symfony, API & Vue.js** | **E-commerce & Mobile Apps**
+**Freelance Full-Stack Developer** | **Symfony, API & Vue.js** | **Web & Mobile Apps**
 
 ### 🛠️ Tech Stack
 - **Backend**: Symfony (4-7), PHP, MySQL, API REST  
