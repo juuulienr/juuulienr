@@ -16,5 +16,5 @@ I'm a **freelance developer** specializing in modern web technologies. With expe
 
 ## 📫 Connect with Me
 - GitHub: [@Julien](https://github.com/Julien)
-- LinkedIn: [Julien's Profile](#)
-- Malt (Freelance): [Julien on Malt](#)
+- LinkedIn: [Julien's Profile](https://www.linkedin.com/in/julien-reignier)
+- Malt (Freelance): [Julien on Malt](https://www.malt.fr/profile/julienreignier)
