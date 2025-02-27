@@ -8,7 +8,6 @@
 🔹 **Qualité, performance & scalabilité**  
 
 ## 🛠️ Stack  
-
 🔹 **Backend**: Symfony 4-7, PHP, MySQL/MariaDB, WebSockets, API REST/GraphQL, API Platform
 🔹 **Frontend**: Vue.js 2 & 3, JavaScript/jQuery, Tailwind CSS, Pinia, Vite, Vue Router
 🔹 **Mobile**: Capacitor, Cordova
@@ -16,7 +15,6 @@
 🔹 **Tests**: PHPUnit, Puppeteer/Selenium, Postman
 
 ## ⚡ Services  
-
 ✅ **Web & Mobile Apps** → Full-Stack Symfony & Vue.js  
 ✅ **API & Back-End** → Développement & intégration  
 ✅ **Automatisation** → Scraping, bots & process automatisés  
