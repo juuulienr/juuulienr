@@ -5,15 +5,15 @@
 ## 🚀 About Me  
 🔹 10+ apps web & mobiles développées  
 🔹 7 ans d’expérience | **Expert Symfony, API & Vue.js**  
-🔹 **Performance, scalabilité & automatisation**  
+🔹 **Qualité, performance & scalabilité**  
 
 ## 🛠️ Stack  
 
-🔹 **Backend**: Symfony 4-7, PHP, MySQL, API REST, API Platform  
-🔹 **Frontend**: Vue.js 2 & 3, JavaScript, Tailwind CSS, Pinia  
+🔹 **Backend**: Symfony 4-7, PHP, MySQL/MariaDB, WebSockets, API REST/GraphQL, API Platform
+🔹 **Frontend**: Vue.js 2 & 3, JavaScript/jQuery, Tailwind CSS, Pinia, Vite, Vue Router
 🔹 **Mobile**: Capacitor, Cordova  
-🔹 **DevOps**: Git, CI/CD, AWS, Docker  
-🔹 **Tests**: PHPUnit, Cypress, Puppeteer  
+🔹 **DevOps**: Git, Github, AWS (EC2, S3), Heroku
+🔹 **Tests**: PHPUnit, Puppeteer/Selenium, Postman
 
 ## ⚡ Services  
 
